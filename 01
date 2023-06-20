@@ -1,0 +1,6 @@
+TypeError       (note: full exception trace is shown but execution is paused at: get_screenshot)
+send_message() missing 1 required positional argument: 'text'
+  File "C:\Users\Petyal\Desktop\something.py", line 41, in get_screenshot (Current frame)
+    bot.send_message(infa1)
+  File "C:\Users\Petyal\Desktop\something.py", line 56, in <module>
+    bot.infinity_polling()
